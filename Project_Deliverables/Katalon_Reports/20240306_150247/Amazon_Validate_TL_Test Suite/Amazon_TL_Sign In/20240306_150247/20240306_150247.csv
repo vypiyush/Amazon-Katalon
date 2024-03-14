@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amazon_TL_Sign In,Chrome 122.0.0.0,,,06-03-2024 15:02:52,06-03-2024 15:04:10,1m - 18.257s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/Test Listener/TC_Amazon_Login_002,Chrome 122.0.0.0,,,06-03-2024 15:03:06,06-03-2024 15:03:37,31.668s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 122.0.0.0,,,06-03-2024 15:03:06,06-03-2024 15:03:37,31.345s,ERROR
+return null,Chrome 122.0.0.0,,,06-03-2024 15:03:37,06-03-2024 15:03:37,0.001s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,06-03-2024 15:03:37,06-03-2024 15:03:37,0.255s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/Test Listener/TC_Amazon_ValidateSearchFieldItem_003,Chrome 122.0.0.0,,,06-03-2024 15:03:37,06-03-2024 15:04:10,32.967s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 122.0.0.0,,,06-03-2024 15:03:37,06-03-2024 15:03:38,0.057s,ERROR
+"openBrowser("""")",Chrome 122.0.0.0,,,06-03-2024 15:03:38,06-03-2024 15:03:39,0.964s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 122.0.0.0,,,06-03-2024 15:03:39,06-03-2024 15:03:41,1.977s,PASSED
+"selectOptionByLabel(findTestObject(""Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/Category Element""), ""Books"", false)",Chrome 122.0.0.0,,,06-03-2024 15:03:41,06-03-2024 15:03:54,13.811s,PASSED
+"setText(findTestObject(""Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Wings of Fire"")",Chrome 122.0.0.0,,,06-03-2024 15:03:54,06-03-2024 15:03:56,1.355s,PASSED
+"click(findTestObject(""Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 122.0.0.0,,,06-03-2024 15:03:56,06-03-2024 15:04:02,6.283s,PASSED
+"selectOptionByLabel(findTestObject(""Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/Category Element""), ""Books"", false)",Chrome 122.0.0.0,,,06-03-2024 15:04:02,06-03-2024 15:04:04,1.934s,PASSED
+"setText(findTestObject(""Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), ""Wings of Fire"")",Chrome 122.0.0.0,,,06-03-2024 15:04:04,06-03-2024 15:04:05,1.265s,PASSED
+"click(findTestObject(""Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 122.0.0.0,,,06-03-2024 15:04:05,06-03-2024 15:04:10,4.915s,PASSED
+closeBrowser(),Chrome 122.0.0.0,,,06-03-2024 15:04:10,06-03-2024 15:04:10,0.301s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,06-03-2024 15:04:10,06-03-2024 15:04:10,0.003s,PASSED

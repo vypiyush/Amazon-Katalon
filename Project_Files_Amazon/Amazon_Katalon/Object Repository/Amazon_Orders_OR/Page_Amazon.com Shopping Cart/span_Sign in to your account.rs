@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign in to your account</name>
+   <tag></tag>
+   <elementGuidId>91aeecd3-f29f-4dcf-9fd8-eb1e5924727c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/span/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.a-size-base-plus</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1199b999-7204-414e-94fd-4235d3b95d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-size-base-plus</value>
+      <webElementGuid>a8c65e56-73d9-41b9-aaa2-0d001a159de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Sign in to your account
+                </value>
+      <webElementGuid>349b2a2e-e24a-4be7-9ccd-58eaf02c06e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a-autoid-0-announce&quot;)/span[@class=&quot;a-size-base-plus&quot;]</value>
+      <webElementGuid>a48ab2c8-157e-4ace-9c92-d5f651361169</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='a-autoid-0-announce']/span</value>
+      <webElementGuid>cf8ce1e1-7d26-4961-b703-f35cefdef7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/a/span</value>
+      <webElementGuid>68951ae0-5aa8-423d-a058-c253c24099c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '&#xd;
+                    Sign in to your account&#xd;
+                ' or . = '&#xd;
+                    Sign in to your account&#xd;
+                ')]</value>
+      <webElementGuid>f4d4896c-e3ef-4262-95d5-01d300b74541</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

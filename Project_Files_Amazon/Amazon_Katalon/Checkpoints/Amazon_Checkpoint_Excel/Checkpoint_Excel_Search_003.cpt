@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint_Excel_Search_003</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>"C:\Users\lenovo\OneDrive\Desktop\Amazon_TD.xlsx"</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>false</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2024-02-03T19:31:43.44+05:30</taken-date>
+   <column-names>
+      <column-name>CategoryItem</column-name>
+      <column-name>Items</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Baby",
+      "checked": false
+    },
+    {
+      "value": "Stroller",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Electronics",
+      "checked": false
+    },
+    {
+      "value": "Mouse",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Books",
+      "checked": false
+    },
+    {
+      "value": "Wings of Fire",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

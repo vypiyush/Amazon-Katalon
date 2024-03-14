@@ -1,0 +1,35 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+DDT_Amazon_Validation_Excel sheet,Chrome 122.0.0.0,,,06-03-2024 15:16:38,06-03-2024 15:17:44,1m - 6.351s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/TC_Amazon_DDT/TC_Amazon_Search_DDT_Excel,Chrome 122.0.0.0,,,06-03-2024 15:16:38,06-03-2024 15:16:59,21.159s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 122.0.0.0,,,06-03-2024 15:16:38,06-03-2024 15:16:38,0.390s,ERROR
+"openBrowser("""")",Chrome 122.0.0.0,,,06-03-2024 15:16:38,06-03-2024 15:16:40,1.351s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 122.0.0.0,,,06-03-2024 15:16:40,06-03-2024 15:16:41,1.576s,PASSED
+maximizeWindow(),Chrome 122.0.0.0,,,06-03-2024 15:16:41,06-03-2024 15:16:42,0.141s,PASSED
+"selectOptionByLabel(findTestObject(""Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/Category Element""), CategoryItem, false)",Chrome 122.0.0.0,,,06-03-2024 15:16:42,06-03-2024 15:16:51,9.020s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), Items)",Chrome 122.0.0.0,,,06-03-2024 15:16:51,06-03-2024 15:16:53,2.158s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 122.0.0.0,,,06-03-2024 15:16:53,06-03-2024 15:16:59,6.102s,PASSED
+closeBrowser(),Chrome 122.0.0.0,,,06-03-2024 15:16:59,06-03-2024 15:16:59,0.244s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,06-03-2024 15:16:59,06-03-2024 15:16:59,0.033s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/TC_Amazon_DDT/TC_Amazon_Search_DDT_Excel,Chrome 122.0.0.0,,,06-03-2024 15:16:59,06-03-2024 15:17:22,22.737s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 122.0.0.0,,,06-03-2024 15:16:59,06-03-2024 15:16:59,0.044s,ERROR
+"openBrowser("""")",Chrome 122.0.0.0,,,06-03-2024 15:16:59,06-03-2024 15:17:00,0.848s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 122.0.0.0,,,06-03-2024 15:17:00,06-03-2024 15:17:02,1.648s,PASSED
+maximizeWindow(),Chrome 122.0.0.0,,,06-03-2024 15:17:02,06-03-2024 15:17:02,0.135s,PASSED
+"selectOptionByLabel(findTestObject(""Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/Category Element""), CategoryItem, false)",Chrome 122.0.0.0,,,06-03-2024 15:17:02,06-03-2024 15:17:14,12.126s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), Items)",Chrome 122.0.0.0,,,06-03-2024 15:17:14,06-03-2024 15:17:16,1.554s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 122.0.0.0,,,06-03-2024 15:17:16,06-03-2024 15:17:22,6.100s,PASSED
+closeBrowser(),Chrome 122.0.0.0,,,06-03-2024 15:17:22,06-03-2024 15:17:22,0.238s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,06-03-2024 15:17:22,06-03-2024 15:17:22,0.019s,PASSED
+,,,,,,,
+Test Cases/TC_Amazon_Validation/TC_Amazon_DDT/TC_Amazon_Search_DDT_Excel,Chrome 122.0.0.0,,,06-03-2024 15:17:22,06-03-2024 15:17:44,22.130s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 122.0.0.0,,,06-03-2024 15:17:22,06-03-2024 15:17:22,0.029s,ERROR
+"openBrowser("""")",Chrome 122.0.0.0,,,06-03-2024 15:17:22,06-03-2024 15:17:23,0.795s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 122.0.0.0,,,06-03-2024 15:17:23,06-03-2024 15:17:25,1.782s,PASSED
+maximizeWindow(),Chrome 122.0.0.0,,,06-03-2024 15:17:25,06-03-2024 15:17:25,0.127s,PASSED
+"selectOptionByLabel(findTestObject(""Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/Category Element""), CategoryItem, false)",Chrome 122.0.0.0,,,06-03-2024 15:17:25,06-03-2024 15:17:36,11.715s,PASSED
+"setText(findTestObject(""Object Repository/Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/input_field-keywords""), Items)",Chrome 122.0.0.0,,,06-03-2024 15:17:36,06-03-2024 15:17:38,1.768s,PASSED
+"click(findTestObject(""Object Repository/Amazon_Validation_Drop Down/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button""))",Chrome 122.0.0.0,,,06-03-2024 15:17:38,06-03-2024 15:17:44,5.636s,PASSED
+closeBrowser(),Chrome 122.0.0.0,,,06-03-2024 15:17:44,06-03-2024 15:17:44,0.260s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 122.0.0.0,,,06-03-2024 15:17:44,06-03-2024 15:17:44,0.004s,PASSED

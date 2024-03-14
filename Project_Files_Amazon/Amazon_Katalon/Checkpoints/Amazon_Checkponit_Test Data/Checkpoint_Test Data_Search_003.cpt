@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint_Test Data_Search_003</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Amazon_Test Data/Amazon_Test Data_Internal_Category</source-url>
+   </source-info>
+   <taken-date>2024-02-03T22:05:46.339+05:30</taken-date>
+   <column-names>
+      <column-name>Category</column-name>
+      <column-name>Items</column-name>
+      <column-name>Results</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Baby",
+      "checked": false
+    },
+    {
+      "value": "Stroller",
+      "checked": false
+    },
+    {
+      "value": "Results Displayed",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>
